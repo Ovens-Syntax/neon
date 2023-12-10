@@ -1,4 +1,4 @@
-<h1 align="center">neon</h1>
+<h1>neon</h1>
 <p align="center">
 <img alt="logo" src="placeholder.png">
 <br>
