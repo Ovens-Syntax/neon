@@ -1,0 +1,11 @@
+layout {
+    pane split_direction="vertical" {
+        pane command="ncmpcpp" size="70%"
+        pane split_direction="horizontal" {
+            pane command="./.config/ncmpcpp/display.sh" size="60%"
+            pane command="ncmpcpp"
+        }
+    }
+}
+
+theme "tokyo-night-dark"
