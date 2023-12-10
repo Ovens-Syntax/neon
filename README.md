@@ -10,4 +10,4 @@
 all the configurations I use for music on my desktop in the future I hope to make my own utility with not curses or something but for now this is what I have
 
 <h2>demo</h2>
-![](recording.mp4)
+https://github.com/Ovens-Syntax/neon/blob/ab786afca270db22938c89a0f1f4fa7212528994/recording.mp4
